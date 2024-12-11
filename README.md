@@ -2,7 +2,7 @@
 The objective of this project is to classify whether upcoming product will have positive or negative Sentiment.   
 
 
-![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/master/s1.png
+![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/main/s1.png
  "Correlation between features")
 
 ***
@@ -33,7 +33,7 @@ The dataset contains 71044 rows and 25 columns
 
 # Workflow:
 
-![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/master/s2.png
+![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/main/s2.png
  "Correlation between features")
 
 <h2> Steps: </h2>
@@ -52,7 +52,7 @@ The dataset contains 71044 rows and 25 columns
 
 # WordCloud:
 
-![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/master/s4.png
+![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/main/s4.png
  "Correlation between features")
 
 # Feature Extraction:
@@ -82,7 +82,7 @@ The dataset contains 71044 rows and 25 columns
 <br> Building Support Vector Machine (SVM) and SGDClassifier on feature vectors.
 
 # Results:
-![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/master/s5.PNG
+![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/main/s5.PNG
  "Correlation between features")
 
 ***
