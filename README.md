@@ -2,8 +2,6 @@
 The objective of this project is to classify whether upcoming product will have positive or negative Sentiment.   
 
 
-![alt text](https://github.com/vinitudasi/sentiment-analysis/blob/main/s1.png
- "Correlation between features")
 
 ***
 
